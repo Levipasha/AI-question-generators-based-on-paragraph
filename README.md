@@ -69,5 +69,7 @@ to understand the context and meaning of the paragraph before generating the que
 
 ---
 
- 📂 Folder Structure
+ 
+ ![WhatsApp Image 2025-07-24 at 2 56 14 PM](https://github.com/user-attachments/assets/237514db-e241-4462-addd-e5e55c0a7103)
+
 
