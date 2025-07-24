@@ -70,6 +70,7 @@ to understand the context and meaning of the paragraph before generating the que
 ---
 
  
- ![WhatsApp Image 2025-07-24 at 2 56 14 PM](https://github.com/user-attachments/assets/237514db-e241-4462-addd-e5e55c0a7103)
+ <img width="1024" height="1536" alt="ChatGPT Image Jul 24, 2025, 03_01_19 PM" src="https://github.com/user-attachments/assets/cb08a36e-6cfd-4142-9ca0-b555ae3fe9ae" />
+
 
 
